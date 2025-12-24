@@ -12,7 +12,7 @@
   <ReadMe/>
   <Overview>Official Docker from ghcr.io/playit-cloud/playit-agent&#13;
 &#13;
-Used to map services, e.g. game server or websites behind cgnat or other restricted networks.&#13;
+Used to map services, e.g. game server or websites behind cgnat or other restricted networks or just without port forwarding.&#13;
 &#13;
 Just put in the secret key generated on playit.gg/account/agents/new-docker into the SECRET_KEY and you are good to go. Please also map the secret folder to a appropriate location.&#13;
 &#13;
