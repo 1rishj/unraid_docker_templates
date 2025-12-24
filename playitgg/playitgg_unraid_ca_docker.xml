@@ -7,7 +7,7 @@
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support/>
+  <Support>https://forums.unraid.net/topic/196008-support-playitgg-docker/#comment-1597517</Support>
   <Project>https://github.com/playit-cloud/playit-agent</Project>
   <ReadMe/>
   <Overview>Official Docker from ghcr.io/playit-cloud/playit-agent&#13;
