@@ -3,7 +3,7 @@
   <Name>playit.gg</Name>
   <Repository>ghcr.io/playit-cloud/playit-agent:latest</Repository>
   <Registry/>
-  <Network>bridge</Network>
+  <Network>host</Network>
   <MyIP/>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
